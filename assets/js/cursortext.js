@@ -1,6 +1,6 @@
 ;(function(){
 
-    var msg = "I run com";
+    var msg = "I <3 Com";
 
     var size = 14;
 
