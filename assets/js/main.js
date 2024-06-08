@@ -5,7 +5,7 @@ aniTitle = setInterval(function () {
     if (counter == Title.length) direction = false;
     if (counter == false) direction = true;
     counter = (direction == true) ? ++counter : --counter;
-    newtitle = (counter == 0) ? "#0101" : Title.slice(0, counter);
+    newtitle = (counter == 0) ? "t.me/weepingbotnet" : Title.slice(0, counter);
     document.title =  '' + newtitle;
 }, 400)
 
