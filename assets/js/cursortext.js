@@ -1,6 +1,6 @@
 i;(function(){
 
-    var msg = "the weeping of an heir is laughter in disguise.";
+    var msg = "weep";
 
     var size = 14;
 
