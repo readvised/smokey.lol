@@ -1,6 +1,6 @@
-;(function(){
+i;(function(){
 
-    var msg = "I <3 Com";
+    var msg = "the weeping of an heir is laughter in disguise.";
 
     var size = 14;
 
