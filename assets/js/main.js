@@ -1,6 +1,6 @@
 console.log("Congrats!! You've managed to make your way to inspect element. I guess ya skidding ass deserves the src after all lol ~ Smokey");
 
-let counter = 0; let Title = 'Smokey'; let direction = true;
+let counter = 0; let Title = 'Weeping C2'; let direction = true;
 aniTitle = setInterval(function () {
     if (counter == Title.length) direction = false;
     if (counter == false) direction = true;
